@@ -1,4 +1,8 @@
 # Datacamp
+<p align= center>
+![ALT text](https://raw.githubusercontent.com/AnuragAnalog/Datacamp/master/logo.png)
+ 
+</p>
 ![ALT text](https://raw.githubusercontent.com/AnuragAnalog/Datacamp/master/logo.png)
 
 My datacamp projects, courses and certifications
